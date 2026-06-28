@@ -1,4 +1,60 @@
-- 👋 Hi, I’m @flempriere
-- 👀 I’m interested in ... Algorithm Design and Development, Scientific Computing and Modelling Physical Systems
-- 🌱 I’m currently learning ... CI/CD and Github Actions, Quarto Publishing System, Documentation Generation and Documentation as Code
+# Hi 👋, I'm Felix Lempriere
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=flempriere&label=Profile views&color=0e75b6&style=flat" alt="flempriere" /> </p>
+
+## Connect with me
+
+<p align="left">
+<a href="https://github.com/flempriere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="flempriere" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/felix-lempriere/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felix-lempriere/" height="30" width="40" /></a>
+</p>
+
+I'm a Developer and Data Scientist from Sydney, Australia :australia: currently embedded in Operations Analysis.
+
+This github contains projects that I enjoy working on in my spare time, which is generally a mix of,
+
+- Continuing my thesis work
+- Writing up notes books I'm studying
+- Toy Projects
+
+## Me at a Glance
+
+- 🔭 I'm currently working on **Modelling Axion-like Particle detections in Experiments at the Large Hadron Collider**
+
+- 🌱 I'm currently learning **Github Actions, Scientific Publishing with Quarto and Data Visualisation Techniques**
+
+- 👯 I'm looking to collaborate on **open source projects**
+
+- 🤝 I'm looking for help with **building up my DevOps knowledge**
+
+- 💬 Ask me about **Quantum Physics, Plotting with Matplotlib or Modelling and Simulation**
+
+- ⚡ Fun fact **In my spare time, I'm often out on my road bike** :biking_man:
+
+## Repositories
+
+| **Repository**                                                                                                           | **Description**                                                                                                              | **Status**                                                          |
+|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
+| *Honours Thesis Code*                                                                                                    |                                                                                                                              |                                                                     |
+| [FelixSee](https://github.com/flempriere/honoursCode)                                                                    | Small Python Library and working book for calculating the signature of Beyond Standard Model Physics at the LHC              |                                                                     |
+| *Weekend Projects*                                                                                                       |                                                                                                                              |                                                                     |
+| [Scoundrel Card Game](https://github.com/flempriere/ScoundrelCardGame)                                                   | CLI implementation of  the card game Scoundrel                                                                               | ![Static Badge](https://img.shields.io/badge/status-complete-green) |
+| *Algorithms and Data Structures*                                                                                         |                                                                                                                              |                                                                     |
+| [Algorithms in C](https://github.com/flempriere/SedgewickAlgorithmsInC)                                                  | Notes, Examples and Exercises for Sedgewick's Algorithms in C, Third Edition                                                 |                                                                     |
+| *Python*                                                                                                                 |                                                                                                                              |                                                                     |
+| [Effective Python](https://github.com/flempriere/EffectivePython)                                                        | Notes and Examples for the book, Effective Python                                                                            | ![Static Badge](https://img.shields.io/badge/status-complete-green) |
+| [Begin to Code with Python](https://github.com/flempriere/BeginToCodeWithPython)                                         | Notes, Examples and Exercises for the book Begin to Code with Python                                                         | ![Static Badge](https://img.shields.io/badge/status-complete-green) |
+| [Foundational Python for Data Science](https://github.com/flempriere/foundational-python-for-data-science)               | Notes, Examples and Exercises for the book Foundational Python for Data Science by Kennedy Behrman                           | ![Static Badge](https://img.shields.io/badge/status-complete-green) |
+| [Python Programming with Design Patterns](https://github.com/flempriere/design-patterns-with-python)                     | A collection of Notes for the book  Python Programming with Design Patterns  by James W Cooper                               |                                                                     |
+| *C/C++*                                                                                                                  |                                                                                                                              |                                                                     |
+| [The C Programming Language: Second Edition](https://github.com/flempriere/C-Programming-Language-2nd-Edition-Exercises) | A collection of solutions to the exercises in Kerrigan and Ritchie's  C Programming Language Book, 2nd Edition.              |                                                                     |
+| [Beginning C++ Through Game Programming](https://github.com/flempriere/CppThroughGameProgramming)                        | A collection of exercises and examples from the book Beginning C++ Through Game Programming, Third Edition by Michael Dawson | ![Static Badge](https://img.shields.io/badge/status-complete-green) |
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/qt" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=qt" alt="qt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a></p>
+
+## Github Stats
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flempriere&show_icons=true&locale=en" alt="flempriere" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flempriere&" alt="flempriere" /></p>
